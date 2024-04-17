@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JananiTechnecian
+- 👋 Hi, I’m @JananiTechnician
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning about front end
 - 💞️ I’m looking forward to exploring collaborate opportunities to show my skills
